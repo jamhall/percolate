@@ -1,5 +1,7 @@
 # Percolate
 
+[![Build Status](https://travis-ci.org/jamhall/percolate.svg?branch=master)](https://travis-ci.org/jamhall/percolate)
+
 > WIP
 
 Percolate is an abstraction on top of [cqengine](https://github.com/npgall/cqengine) that allows you to filter collections using SQL style where queries.
