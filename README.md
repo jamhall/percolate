@@ -57,7 +57,7 @@ final ResultSet<Customer> results = query.execute(customers, "age > 20 AND count
 results.forEach(System.out::println);
 ```
 
-For more examples, please look at the tests. Also checkout the [cqengine](https://github.com/npgall/cqengine)  documentation.
+For more examples, please look at the [FilterParserTest.kt](https://github.com/jamhall/percolate/blob/master/src/test/kotlin/eu/jamiehall/percolate/FilterParserTest.kt) file. Also checkout the [cqengine](https://github.com/npgall/cqengine) documentation.
 
 
 ## Value parsers
